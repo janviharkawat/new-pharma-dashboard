@@ -1,12 +1,12 @@
-💊Pharma Dashboard
+# 💊Pharma Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project showcases an interactive Power BI dashboard built to analyze pharmaceutical business data. The goal is to transform raw, potentially messy data into meaningful insights that support decision-making in areas like sales performance, profitability, product demand, and regional trends.
 
 The dashboard is designed with a multi-page layout, allowing users to drill down into specific aspects of the business while maintaining a high-level overview.
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Analyze sales trends
 
@@ -18,7 +18,7 @@ The dashboard is designed with a multi-page layout, allowing users to drill down
 
 - Provide data-driven insights for business decisions
 
-📊 Dashboard Pages & Features
+## 📊 Dashboard Pages & Features
 
 1️⃣ Pharma Sales Overview
 <img width="1160" height="662" alt="Pharma Sales Overview" src="https://github.com/user-attachments/assets/555f8f62-4dfa-4727-bd2f-f9b59369f839" />
@@ -34,13 +34,13 @@ The dashboard is designed with a multi-page layout, allowing users to drill down
 <img width="1160" height="662" alt="Sales Team Performance" src="https://github.com/user-attachments/assets/b7e0aef7-e8a3-4036-8efd-1af33431cb2f" />
 
 
-🧮 Key DAX Measures Used
+## 🧮 Key DAX Measures Used
 
 Some important DAX calculations implemented in this dashboard:
 
 - Total Sales = SUM("FACT-sales"[Sales])
 
-🔄 Data Cleaning & Transformation
+## 🔄 Data Cleaning & Transformation
 
 Performed using Power Query:
 
@@ -52,14 +52,14 @@ Performed using Power Query:
 
 - Standardized column names
 
-📈 Key Insights
+## 📈 Key Insights
 
 A small set of products contributes to the majority of revenue (Pareto principle)
 Certain products show negative or very low margins, indicating pricing or cost issues
 Seasonal trends observed in sales performance
 Regional differences highlight potential market opportunities
 
-⚠️ Data Challenges
+## ⚠️ Data Challenges
 
 This dataset includes real-world messy data characteristics, such as:
 
@@ -68,13 +68,13 @@ This dataset includes real-world messy data characteristics, such as:
 
 These challenges were addressed during the data cleaning phase.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query (ETL)
 - Data Visualization Techniques
 
-🤝 Contributing
+## 🤝 Contributing
 
 This is a personal project created for learning and portfolio purposes.
 However, suggestions, feedback, and improvements are always welcome!
@@ -85,12 +85,12 @@ If you'd like to contribute:
 - Create a feature branch
 - Submit a pull request
 
-📧 Contact
+## 📧 Contact
 
 - Janvi Harkawat
 - For any queries, feedback, or collaboration opportunities, feel free to reach out.
 
-⭐ Support
+## ⭐ Support
 
 If you found this project helpful or interesting:
 
